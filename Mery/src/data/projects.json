@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Machine Learning Model A",
+    "imageSrc": "projects/project.png",
+    "description": "A machine learning project focused on predictive analysis using various algorithms to forecast trends in data.",
+    "skills": ["Python", "TensorFlow", "Scikit-learn"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "AI-powered Recommendation System",
+    "imageSrc": "projects/project.png",
+    "description": "An AI project that utilizes collaborative filtering and machine learning to provide personalized recommendations to users.",
+    "skills": ["Python", "Pandas", "Keras", "Scikit-learn"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Data Analysis Project B",
+    "imageSrc": "projects/project.png",
+    "description": "A data analysis project that extracts insights from large datasets using data cleaning, visualization, and analysis techniques.",
+    "skills": ["Python", "Pandas", "Matplotlib", "Seaborn"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Data Scientist",
+    "organisation": "Meta",
+    "startDate": "Oct, 2022",
+    "endDate": "Present",
+    "experiences": ["Developed predictive models", "Improved data pipelines by 40%"],
+    "imageSrc": "history/meta.png"
+  },
+  {
+    "role": "Product Designer",
+    "organisation": "Apple",
+    "startDate": "Jul, 2021",
+    "endDate": "Jul, 2022",
+    "experiences": ["Designed interfaces for iOS", "Created prototypes for new apps"],
+    "imageSrc": "history/apple.png"
+  },
+  {
+    "role": "Machine Learning Intern",
+    "organisation": "Amazon",
+    "startDate": "May, 2020",
+    "endDate": "Jul, 2020",
+    "experiences": [
+      "Developed recommendation algorithms",
+      "Enhanced personalization features"
+    ],
+    "imageSrc": "history/amazon.png"
+  }
+]
